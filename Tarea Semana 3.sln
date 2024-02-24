@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validación de edad", "Programa\Validación de edad.csproj", "{843752C7-F1B6-4EEE-A0DF-12C484C5AB5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuariovalidación", "Usuariovalidación\Usuariovalidación.csproj", "{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{843752C7-F1B6-4EEE-A0DF-12C484C5AB5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{843752C7-F1B6-4EEE-A0DF-12C484C5AB5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{843752C7-F1B6-4EEE-A0DF-12C484C5AB5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
