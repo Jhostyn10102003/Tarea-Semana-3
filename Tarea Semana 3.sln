@@ -21,7 +21,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Convertir un Número de 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "If", "If", "{A6EE9705-2A59-4339-B823-B8459640B870}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mostrar el Día de la Semana a partir de un Número", "Mostrar el Día de la Semana a partir de un Número\Mostrar el Día de la Semana a partir de un Número.csproj", "{70C64A05-4060-4F52-B054-B99667700B2B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Mostrar el Día de la Semana a partir de un Número", "Mostrar el Día de la Semana a partir de un Número\2. Mostrar el Día de la Semana a partir de un Número.csproj", "{70C64A05-4060-4F52-B054-B99667700B2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Calcular el Importe a Pagar por un Servicio", "3. Calcular el Importe a Pagar por un Servicio\3. Calcular el Importe a Pagar por un Servicio.csproj", "{2871E804-DBA4-48BF-AFEE-A1A07D10E2C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,10 @@ Global
 		{70C64A05-4060-4F52-B054-B99667700B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70C64A05-4060-4F52-B054-B99667700B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70C64A05-4060-4F52-B054-B99667700B2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2871E804-DBA4-48BF-AFEE-A1A07D10E2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2871E804-DBA4-48BF-AFEE-A1A07D10E2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2871E804-DBA4-48BF-AFEE-A1A07D10E2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2871E804-DBA4-48BF-AFEE-A1A07D10E2C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
