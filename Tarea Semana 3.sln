@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validación de edad", "Prog
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuariovalidación", "Usuariovalidación\Usuariovalidación.csproj", "{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Par o impar", "Par o impar\Par o impar.csproj", "{F8BA3D74-1751-4E61-AAEA-24CCA62176E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8BA3D74-1751-4E61-AAEA-24CCA62176E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8BA3D74-1751-4E61-AAEA-24CCA62176E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8BA3D74-1751-4E61-AAEA-24CCA62176E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8BA3D74-1751-4E61-AAEA-24CCA62176E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
