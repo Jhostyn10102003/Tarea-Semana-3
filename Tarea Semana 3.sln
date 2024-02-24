@@ -3,21 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mayor de 3 muneros", "Tarea Semana 3\Mayor de 3 muneros.csproj", "{620281AD-0D31-4C30-86D0-94913EA9230C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Calcular el Mayor de Tres Números", "Tarea Semana 3\1. Calcular el Mayor de Tres Números.csproj", "{620281AD-0D31-4C30-86D0-94913EA9230C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{972A34AC-0D6E-4F61-9D67-81AD5C35581A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validación de edad", "Programa\Validación de edad.csproj", "{843752C7-F1B6-4EEE-A0DF-12C484C5AB5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Validar Edad para Ingresar a un Club", "Programa\2. Validar Edad para Ingresar a un Club.csproj", "{843752C7-F1B6-4EEE-A0DF-12C484C5AB5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Usuariovalidación", "Usuariovalidación\Usuariovalidación.csproj", "{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Validar Usuario y Contraseña", "Usuariovalidación\4. Validar Usuario y Contraseña.csproj", "{D2883E80-EEA6-43A5-ADF3-7F0954ECD275}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Par o impar", "Par o impar\Par o impar.csproj", "{F8BA3D74-1751-4E61-AAEA-24CCA62176E7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Determinar si un Número es Par o Impar", "Par o impar\5. Determinar si un Número es Par o Impar.csproj", "{F8BA3D74-1751-4E61-AAEA-24CCA62176E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprobación de prestamo", "aprobación de prestamo\aprobación de prestamo.csproj", "{249034D7-0743-422A-A9E1-6F14EE292A0B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Mostrar un Mensaje de Aprobación o Rechazo de Préstamo", "aprobación de prestamo\6. Mostrar un Mensaje de Aprobación o Rechazo de Préstamo.csproj", "{249034D7-0743-422A-A9E1-6F14EE292A0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formas", "formas\formas.csproj", "{CC591D13-6745-4FF8-981D-501D038E98D0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Calcular el Área de una Figura Geométrica", "formas\7. Calcular el Área de una Figura Geométrica.csproj", "{CC591D13-6745-4FF8-981D-501D038E98D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertir numero", "convertir numero\convertir numero.csproj", "{8333DD3B-91DF-4F4D-BFD7-932301271F62}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Convertir un Número de Letra a Número", "convertir numero\1. Convertir un Número de Letra a Número.csproj", "{8333DD3B-91DF-4F4D-BFD7-932301271F62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "If", "If", "{A6EE9705-2A59-4339-B823-B8459640B870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mostrar el Día de la Semana a partir de un Número", "Mostrar el Día de la Semana a partir de un Número\Mostrar el Día de la Semana a partir de un Número.csproj", "{70C64A05-4060-4F52-B054-B99667700B2B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -53,9 +57,21 @@ Global
 		{8333DD3B-91DF-4F4D-BFD7-932301271F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8333DD3B-91DF-4F4D-BFD7-932301271F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8333DD3B-91DF-4F4D-BFD7-932301271F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C64A05-4060-4F52-B054-B99667700B2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C64A05-4060-4F52-B054-B99667700B2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C64A05-4060-4F52-B054-B99667700B2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C64A05-4060-4F52-B054-B99667700B2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{620281AD-0D31-4C30-86D0-94913EA9230C} = {A6EE9705-2A59-4339-B823-B8459640B870}
+		{843752C7-F1B6-4EEE-A0DF-12C484C5AB5A} = {A6EE9705-2A59-4339-B823-B8459640B870}
+		{D2883E80-EEA6-43A5-ADF3-7F0954ECD275} = {A6EE9705-2A59-4339-B823-B8459640B870}
+		{F8BA3D74-1751-4E61-AAEA-24CCA62176E7} = {A6EE9705-2A59-4339-B823-B8459640B870}
+		{249034D7-0743-422A-A9E1-6F14EE292A0B} = {A6EE9705-2A59-4339-B823-B8459640B870}
+		{CC591D13-6745-4FF8-981D-501D038E98D0} = {A6EE9705-2A59-4339-B823-B8459640B870}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {4C33F65F-56CF-42ED-BD13-32CE95B857A7}
