@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Par o impar", "Par o impar\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprobación de prestamo", "aprobación de prestamo\aprobación de prestamo.csproj", "{249034D7-0743-422A-A9E1-6F14EE292A0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formas", "formas\formas.csproj", "{CC591D13-6745-4FF8-981D-501D038E98D0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{249034D7-0743-422A-A9E1-6F14EE292A0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{249034D7-0743-422A-A9E1-6F14EE292A0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{249034D7-0743-422A-A9E1-6F14EE292A0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC591D13-6745-4FF8-981D-501D038E98D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC591D13-6745-4FF8-981D-501D038E98D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC591D13-6745-4FF8-981D-501D038E98D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC591D13-6745-4FF8-981D-501D038E98D0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
