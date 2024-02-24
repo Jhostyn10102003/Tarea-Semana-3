@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aprobación de prestamo", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formas", "formas\formas.csproj", "{CC591D13-6745-4FF8-981D-501D038E98D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "convertir numero", "convertir numero\convertir numero.csproj", "{8333DD3B-91DF-4F4D-BFD7-932301271F62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{CC591D13-6745-4FF8-981D-501D038E98D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC591D13-6745-4FF8-981D-501D038E98D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC591D13-6745-4FF8-981D-501D038E98D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8333DD3B-91DF-4F4D-BFD7-932301271F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8333DD3B-91DF-4F4D-BFD7-932301271F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8333DD3B-91DF-4F4D-BFD7-932301271F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8333DD3B-91DF-4F4D-BFD7-932301271F62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
